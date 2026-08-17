@@ -1,7 +1,7 @@
 <h1 align="center"><b>Muhammad Nouman</b></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFD100&center=true&vCenter=true&width=650&lines=AI+%26+Machine+Learning+Enthusiast;Python+Developer;Full-Stack+Web+Developer;Building+Practical+AI+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFD100&center=true&vCenter=true&width=650&lines=AI+%26+Machine+Learning+Enthusiast;Python+Developer;Web+Developer;Building+Practical+AI+Solutions" alt="Typing SVG" />
 </p>
 
 ## 👨‍💻 About Me
