@@ -66,9 +66,10 @@
 <a href="mailto:noumanmuhammad479@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-
 </p>
+
 ---
+
 # 📊 GitHub Analytics
 
 <p align="center">
