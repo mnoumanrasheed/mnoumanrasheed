@@ -15,21 +15,7 @@
 
 ## 🌐 Socials
 
-<p align="left">
 
-<a href="https://instagram.com/nouman_muhammad98" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
-</a>
-
-<a href="https://www.linkedin.com/in/mnoumanrasheed" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-
-<a href="mailto:noumanmuhammad479@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-
-</p>
 
 ---
 
@@ -66,6 +52,21 @@
 ![Prezi](https://img.shields.io/badge/Prezi-%23000000.svg?style=for-the-badge&logo=Prezi&logoColor=white)
 
 ---
+<p align="left">
+
+<a href="https://instagram.com/nouman_muhammad98" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
+</a>
+
+<a href="https://www.linkedin.com/in/mnoumanrasheed" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<a href="mailto:noumanmuhammad479@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+</p>
 
 # 📊 GitHub Analytics
 
