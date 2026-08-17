@@ -6,10 +6,9 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Computer Science & Software Development Enthusiast
+- 🎓 Software Engineering student
 - 🤖 Passionate about Machine Learning, Artificial Intelligence, and Python
 - 🌐 Building modern, responsive, and user-focused web applications
-- 👁️ Exploring Computer Vision, OpenCV, and Image Processing
 - 🌱 Currently improving my skills in Deep Learning, AI, and Full-Stack Development
 
 ---
