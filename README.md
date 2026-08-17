@@ -13,7 +13,7 @@
 
 ---
 
-## 🌐 Socials
+
 
 
 
@@ -52,6 +52,7 @@
 ![Prezi](https://img.shields.io/badge/Prezi-%23000000.svg?style=for-the-badge&logo=Prezi&logoColor=white)
 
 ---
+## 🌐 Socials
 <p align="left">
 
 <a href="https://instagram.com/nouman_muhammad98" target="_blank">
