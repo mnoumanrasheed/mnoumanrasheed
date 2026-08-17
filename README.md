@@ -17,7 +17,7 @@
 
 
 
----
+
 
 # 💻 Tech Stack
 
@@ -68,7 +68,7 @@
 </a>
 
 </p>
-
+---
 # 📊 GitHub Analytics
 
 <p align="center">
