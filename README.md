@@ -4,14 +4,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFD100&center=true&vCenter=true&width=650&lines=AI+%26+Machine+Learning+Enthusiast;Python+Developer;Full-Stack+Web+Developer;Building+Practical+AI+Solutions" alt="Typing SVG" />
 </p>
 
-## 💫 About Me
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on **AI/ML projects and modern web applications**
-- 👯 I’m looking to collaborate on **Machine Learning, AI, and Full-Stack Web Development projects**
-- 🤝 I’m looking for help with **advanced AI/ML, deployment, and scalable application development**
-- 🌱 I’m currently learning **advanced Machine Learning, Deep Learning, and modern web technologies**
-- 💬 Ask me about **Python, Machine Learning, and project development**
-- ⚡ Fun fact: I enjoy turning **real-world problems into practical software and AI solutions**
+- 🎓 Computer Science & Software Development Enthusiast
+- 🤖 Passionate about Machine Learning, Artificial Intelligence, and Python
+- 🌐 Building modern, responsive, and user-focused web applications
+- 👁️ Exploring Computer Vision, OpenCV, and Image Processing
+- 🌱 Currently improving my skills in Deep Learning, AI, and Full-Stack Development
 
 ---
 
@@ -47,7 +46,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
