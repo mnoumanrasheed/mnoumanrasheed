@@ -65,8 +65,15 @@
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mnoumanrasheed&theme=github-dark&hide_border=true" width="100%" alt="Muhammad Nouman's GitHub Activity Graph" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=mnoumanrasheed&theme=github&hide_border=true"
+    width="100%"
+    alt="Muhammad Nouman's GitHub Activity Graph"
+  />
 </p>
+
+---
+
 
 ---
 
