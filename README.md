@@ -15,10 +15,6 @@
 
 
 
-
-
-
-
 # 💻 Tech Stack
 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
@@ -65,11 +61,13 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mnoumanrasheed&theme=github_dark"
-    width="100%"
-    alt="GitHub Profile Summary"
-  />
+  <a href="https://github.com/mnoumanrasheed">
+    <img
+      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mnoumanrasheed&theme=github_dark"
+      width="100%"
+      alt="Muhammad Nouman's GitHub Profile Summary"
+    />
+  </a>
 </p>
 
 
