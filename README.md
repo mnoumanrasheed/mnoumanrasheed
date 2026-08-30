@@ -65,13 +65,24 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/mnoumanrasheed">
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=mnoumanrasheed&theme=react-dark&hide_border=true&area=true"
-      width="100%"
-      alt="Muhammad Nouman's GitHub Activity Graph"
-    />
-  </a>
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mnoumanrasheed&theme=github_dark"
+    width="100%"
+    alt="GitHub Profile Summary"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=mnoumanrasheed&show_icons=true&theme=github_dark&hide_border=true"
+    height="165"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnoumanrasheed&layout=compact&theme=github_dark&hide_border=true"
+    height="165"
+    alt="Top Languages"
+  />
 </p>
 
 ---
